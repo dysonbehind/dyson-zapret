@@ -33,10 +33,12 @@
 > Начиная с версии v1.9.0, весь код подписывается через `signtool` во время Post-Build Event, что гарантирует подлинность и целостность исполняемого файла. Количество ложных срабатываний Windows Defender сведено к минимуму (Stealth Mode).
 
 ---
-<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/1dc05326-1639-406f-880e-fbbd20d208ae" />
-<img width="1280" height="977" alt="image" src="https://github.com/user-attachments/assets/568af993-e7e5-4d92-bba6-055686d6475d" />
-<img width="1280" height="974" alt="image" src="https://github.com/user-attachments/assets/8fbc342c-64e2-47a8-b2e4-d2edf8161d1a" />
-<img width="1280" height="980" alt="image" src="https://github.com/user-attachments/assets/105e6702-e4a7-4654-a860-009804f8b1d0" />
+<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/46291b97-0d13-45d6-87c7-f73bcf267165" />
+<img width="1280" height="977" alt="image" src="https://github.com/user-attachments/assets/7ef6f01a-5440-49b7-8eee-1c1e5b700e0c" />
+<img width="1280" height="974" alt="image" src="https://github.com/user-attachments/assets/cf53c276-7d79-4784-a437-3ee0be2164a7" />
+<img width="1280" height="980" alt="image" src="https://github.com/user-attachments/assets/477b7e04-5b51-4e49-8488-e13f35446608" />
+<img width="1280" height="980" alt="image" src="https://github.com/user-attachments/assets/0bc1b7a7-961a-48d6-9f17-7711f2a17a6b" />
+
 
 
 
