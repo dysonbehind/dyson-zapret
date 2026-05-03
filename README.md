@@ -1,5 +1,5 @@
-## ⭐zapret core
-<img width="1365" height="768" alt="222" src="https://github.com/user-attachments/assets/e9ecece2-2fdc-4070-b789-189a67f6eadb" />
+## ZAPRET CORE
+
 
 > [!TIP]
 >
