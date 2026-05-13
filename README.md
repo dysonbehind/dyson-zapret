@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="https://zapretcore.ru"><b>zapretcore.ru</b></a> &nbsp;│&nbsp; 
-  <a href="https://github.com/zapretcore/zapret-core/releases"><b>Releases</b></a> &nbsp;│&nbsp; 
-  <a href="https://t.me/zapretcore"><b>Telegram</b></a>
+  <a href="https://github.com/dysonbehind/zapret-discord-youtube/releases"><b>Releases</b></a> &nbsp;│&nbsp; 
+  <a href="https://[t.me/zapretcore](https://t.me/wokeupinthemorning)"><b>Telegram</b></a>
 </p>
 
 ---
